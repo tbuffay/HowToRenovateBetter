@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tbuffay.github.io/HowToRenovateBetter/sitemap.xml
